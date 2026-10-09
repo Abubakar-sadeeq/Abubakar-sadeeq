@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Abubakar-sadeeq/Abubakar-sadeeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abubakar Ibrahim
 
-Here are some ideas to get you started:
+Computer Science (B.Tech) student at Abubakar Tafawa Balewa University (ATBU), Nigeria, teaching myself cybersecurity with a focus on web application security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+- Web application testing with Burp Suite
+- PortSwigger Web Security Academy labs
+- Networking fundamentals
+- Python, to automate security tasks
+- Bug bounty methodology
+
+## Certifications
+- Cybersecurity Fundamentals, Cisco
+
+## Projects
+- [PortSwigger lab write-ups](https://github.com/Abubakar-sadeeq/portswigger-labs)
+
+## What's here
+- Write-ups of labs I solve, explaining the vulnerability, how I found it, and how to fix it
+- Small JavaScript and Python practice projects
+
+## Looking for
+A cybersecurity internship where I can build real experience in VAPT and application security.
+
+## Contact
+sadeeqcyber001@gmail.com
