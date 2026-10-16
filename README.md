@@ -1,27 +1,18 @@
 
 # Hi, I'm Abubakar Ibrahim
 
-Computer Science (B.Tech) student at Abubakar Tafawa Balewa University (ATBU), Nigeria, teaching myself cybersecurity with a focus on web application security.
+Computer Science (B.Tech) student at Abubakar Tafawa Balewa University (ATBU), Nigeria, teaching myself cybersecurity with a focus on web application development.
 
 ## What I'm learning
-- Web application testing with Burp Suite
-- PortSwigger Web Security Academy labs
-- Networking fundamentals
-- Python, to automate security tasks
-- Bug bounty methodology
+- 🌱 Aspiring Web Developer | Learning HTML, CSS & JavaScript | Building projects one step at a time 🚀
 
-## Certifications
-- Cybersecurity Fundamentals, Cisco
 
-## Projects
-- [PortSwigger lab write-ups](https://github.com/Abubakar-sadeeq/portswigger-labs)
 
 ## What's here
-- Write-ups of labs I solve, explaining the vulnerability, how I found it, and how to fix it
-- Small JavaScript and Python practice projects
-
-## Looking for
-A cybersecurity internship where I can build real experience in VAPT and application security.
+- Write-ups of web pages I create 
+- Small JavaScript and Python practice project.
+## Certifications
+- Cybersecurity Fundamentals, Cisco
 
 ## Contact
 sadeeqcyber001@gmail.com
