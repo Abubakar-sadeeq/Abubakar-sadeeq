@@ -3,16 +3,22 @@
 
 Computer Science (B.Tech) student at Abubakar Tafawa Balewa University (ATBU), Nigeria, teaching myself cybersecurity with a focus on web application development.
 
-## What I'm learning
-- 🌱 Aspiring Web Developer | Learning HTML, CSS & JavaScript | Building projects one step at a time 🚀
+# Hi, I'm Abubakar! 👋
 
+🌱 I'm an aspiring web developer.
 
+💻 Currently learning:
+- HTML
+- CSS
+- JavaScript
 
-## What's here
-- Write-ups of web pages I create 
-- Small JavaScript and Python practice project.
-## Certifications
-- Cybersecurity Fundamentals, Cisco
+🎯 My goals:
+- Build a strong foundation in web development.
+- Create practical projects.
+- Improve my coding skills every day.
 
+📈 I'm documenting my journey from beginner to developer.
+
+One step at a time, Insha Allah!
 ## Contact
 sadeeqcyber001@gmail.com
